@@ -1,0 +1,8 @@
+# Ragnar Solutions Bot Requirements
+# Install with: pip install -r requirements.txt
+
+requests>=2.28.0
+cryptography>=40.0.0
+
+# Optional: for faster async (not required, bot uses stdlib urllib)
+# aiohttp>=3.8.0
